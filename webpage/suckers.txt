@@ -1,0 +1,9 @@
+SomeName;mh;982631;visa
+Shllyy;md;78663122;masterCard
+AnotherOne;ms;2131211;visa
+AnotherOneTwo;ms;21312111231;masterCard
+AnotherOneTwoThree;ms;21312111231;masterCard
+AnotherOneTwoThreeFour;ms;21312111231;masterCard
+lastOne;ms;2131211123122211;visa
+lastOneTwo;ms;2131211123122211;masterCard;
+lolkek;ma;122214532;visa
